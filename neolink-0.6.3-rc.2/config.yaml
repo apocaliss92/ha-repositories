@@ -1,4 +1,4 @@
-name: "Neolink-latest"
+name: "Neolink-0.6.3-rc.2"
 description: "Will run Neolink 0.6.3-rc-2 directly as Add-on in HAOS"
 version: "0.0.1"
 slug: "neolink-latest"
