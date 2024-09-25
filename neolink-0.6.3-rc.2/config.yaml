@@ -1,7 +1,7 @@
-name: "Neolink-0.6.3-rc.3"
-description: "Will run Neolink 0.6.3-rc-3 directly as Add-on in HAOS"
+name: "Neolink-master"
+description: "Will run Neolink master directly as Add-on in HAOS"
 version: "0.0.1"
-slug: "neolink-0.6.3-rc.3"
+slug: "neolink-master"
 init: false
 arch:
   - aarch64
